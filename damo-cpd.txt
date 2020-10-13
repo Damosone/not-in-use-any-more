@@ -8,4 +8,4 @@ Reflection
 
 // Your reflection goes here
 
-In today session I was indroduced to github, we explored VS code and we had intro presentation how to comit file to our repo. Pretty cool so far .
+In today session I was indroduced to github, we explored VS code and we had intro presentation how to comit file to our repo. Pretty cool so far.
